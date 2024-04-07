@@ -26,9 +26,12 @@
 
 ### Spicetify
 - [Spicetify Download](<https://spicetify.app/docs/advanced-usage/installation/>)
+- [Background Image](<https://i.imgur.com/Wl2D0h0.png>)
+- [Theme](<https://github.com/Astromations/Hazy>)
 
 ### Better Discord
 - [Better Discord Download](<https://betterdiscord.app/>)
+- [0BDFDB](<https://betterdiscord.app/plugin/BDFDB>)
   
 ---
 
