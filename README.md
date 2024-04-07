@@ -38,7 +38,30 @@
 ### Better Discord
 
 - [Better Discord Download](<https://betterdiscord.app/>)
-- [0BDFDB](<https://betterdiscord.app/plugin/BDFDB>)
+
+#### Themes
+
+- [Midnight](https://github.com/refact0r/midnight-discord)
+
+#### Plugins
+
+- [APlatformIndicators](https://betterdiscord.app/plugin/PlatformIndicators)
+- [BDFDB](https://betterdiscord.app/plugin/BDFDB)
+- [BetterAnimations](https://betterdiscord.app/plugin/BetterAnimations)
+- [BetterRoleColors](https://betterdiscord.app/plugin/BetterRoleColors)
+- [BetterSyntax](https://betterdiscord.app/plugin/BetterSyntax)
+- [ChannelsPreview](https://betterdiscord.app/plugin/ChannelsPreview)
+- [DiscordFreeEmojis](https://betterdiscord.app/plugin/FreeEmojis)
+- [DoubleClickToEdit](https://betterdiscord.app/plugin/Double%20Click%20To%20Edit)
+- [InsertTimestamps](https://betterdiscord.app/plugin/InsertTimestamps)
+- [Hide Channels](https://betterdiscord.app/plugin/Hide%20Channels)
+- [InvisibleTyping](https://betterdiscord.app/plugin/InvisibleTyping)
+- [MessageLoggerV2](https://github.com/1Lighty/BetterDiscordPlugins/blob/master/Plugins/MessageLoggerV2/MessageLoggerV2.plugin.js)
+- [RevealAllSpoilers](https://betterdiscord.app/plugin/RevealAllSpoilers)
+- [SpotifyControls](https://betterdiscord.app/plugin/SpotifyControls)
+- [TeX](https://betterdiscord.app/plugin/TeX)
+- [XenoLib](https://github.com/1Lighty/BetterDiscordPlugins/blob/master/Plugins/1XenoLib.plugin.js)
+- [ZeresPluginLibrary](https://betterdiscord.app/plugin/ZeresPluginLibrary)
   
 ---
 
