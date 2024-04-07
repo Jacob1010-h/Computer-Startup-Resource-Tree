@@ -12,8 +12,13 @@
 ### Git For Windows
 - [Git Download](<https://git-scm.com/download/win>)
 
----
+### Powertoys
+- [Powertoys Download](<https://apps.microsoft.com/store/detail/XP89DCGQ3K6VLD?ocid=pdpshare>)
 
+### Node.js
+- [Node Windows Install](<https://nodejs.org/en/download>)
+
+---
 
 ## Robotics Stuff
 
