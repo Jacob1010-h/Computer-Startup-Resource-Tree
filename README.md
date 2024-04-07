@@ -18,6 +18,18 @@
 ### Node.js
 - [Node Windows Install](<https://nodejs.org/en/download>)
 
+### Oh My Posh
+- [Oh My Posh](<https://ohmyposh.dev/docs/installation/windows>)
+- [Nerd Font Releases](<https://github.com/ryanoasis/nerd-fonts/releases/latest>)
+- [Fira Code &mdash; v3.2.0](<https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.0/FiraCode.zip>)
+- [Oh My Posh Error Ref](<https://stackoverflow.com/questions/75499007/get-psreadlinekeyhandler-a-parameter-cannot-be-found-that-matches-parameter-na>)
+
+### Spicetify
+- [Spicetify Download](<https://spicetify.app/docs/advanced-usage/installation/>)
+
+### Better Discord
+- [Better Discord Download](<https://betterdiscord.app/>)
+  
 ---
 
 ## Robotics Stuff
