@@ -33,7 +33,7 @@
 
 - [Spicetify Download](<https://spicetify.app/docs/advanced-usage/installation/>)
 - [Background Image](<https://i.imgur.com/Wl2D0h0.png>)
-- [Theme](<https://github.com/Astromations/Hazy>)
+- [Theme]([<https://github.com/Astromations/Hazy>](https://github.com/Comfy-Themes/Spicetify))
 
 ### Better Discord
 
