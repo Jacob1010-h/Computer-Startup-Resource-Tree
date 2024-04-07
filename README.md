@@ -30,7 +30,7 @@
 - [Pathplanner Dev](<https://pathplanner.dev/home.html>)
 
 ### Monologue
-- [Monologue Releases](https://github.com/shueja/Monologue/releases/latest)
+- [Monologue Releases](<https://github.com/shueja/Monologue/wiki>)
 
 ### FRC Utils / WPILib
 - [FRC Game Tools](<https://www.ni.com/en/support/downloads/drivers/download.frc-game-tools.html#500107>)
