@@ -24,7 +24,7 @@
 
 ### Oh My Posh
 
-- [Oh My Posh](<https://ohmyposh.dev/docs/installation/windows>)
+- [Oh My Posh](<https://apps.microsoft.com/store/detail/XP8K0HKJFRXGCK?ocid=pdpshare>)
 - [Nerd Font Releases](<https://github.com/ryanoasis/nerd-fonts/releases/latest>)
 - [Fira Code &mdash; v3.2.0](<https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.0/FiraCode.zip>)
 - [Oh My Posh Error Ref](<https://stackoverflow.com/questions/75499007/get-psreadlinekeyhandler-a-parameter-cannot-be-found-that-matches-parameter-na>)
