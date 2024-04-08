@@ -4,7 +4,7 @@
 
 ### Ninite
 
-- [Nitite Download](<https://ninite.com/.net8-.netx8-7zip-adoptjava8-adoptjavax11-adoptjavax17-adoptjavax21-adoptjavax8-adoptjdk8-adoptjdkx11-adoptjdkx17-adoptjdkx21-adoptjdkx8-blender-chrome-correttojdk8-correttojdkx11-correttojdkx17-correttojdkx21-correttojdkx8-discord-everything-firefox-gimp-malwarebytes-notepadplusplus-putty-python-python3-pythonx3-sharex-spotify-steam-vlc-vscode-windirstat-zoom/>)
+- [Nitite Download](<https://ninite.com/.net8-.netx8-7zip-adoptjava8-adoptjavax11-adoptjavax17-adoptjavax21-adoptjavax8-adoptjdk8-adoptjdkx11-adoptjdkx17-adoptjdkx21-adoptjdkx8-blender-chrome-correttojdk8-correttojdkx11-correttojdkx17-correttojdkx21-correttojdkx8-discord-everything-firefox-gimp-malwarebytes-notepadplusplus-putty-python-python3-pythonx3-sharex-steam-vlc-vscode-windirstat-zoom/>)
 
 ### Spotify
 
