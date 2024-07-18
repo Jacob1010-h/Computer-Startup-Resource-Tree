@@ -14,6 +14,9 @@
 
 - [Git Download](<https://git-scm.com/download/win>)
 
+### Stealseries GG
+- [Download](https://steelseries.com/gg/download/)
+
 ### Powertoys
 
 - [Powertoys Download](<https://apps.microsoft.com/store/detail/XP89DCGQ3K6VLD?ocid=pdpshare>)
