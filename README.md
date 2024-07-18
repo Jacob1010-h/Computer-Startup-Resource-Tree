@@ -45,7 +45,7 @@
 - [Vencord Plugin](https://vencord.dev/download/)
 
 #### Themes
-
+- [system24](https://github.com/refact0r/system24)
 - [Midnight](https://github.com/refact0r/midnight-discord)
 
 #### Plugins
