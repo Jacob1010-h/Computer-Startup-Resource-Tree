@@ -50,6 +50,8 @@
 
 #### Plugins
 - BetterFolders
+- CallTimer
+- Custom RPC
 - BetterRoleContext
 - BetterRoleDot
 - BetterSettings
